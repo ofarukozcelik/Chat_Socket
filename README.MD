@@ -11,7 +11,7 @@ Chat projesi geliştirildi.
 # Ekran Görüntüleri
 ![](./image/chat1.png)
 
-![](./image/chat1.png)
+![](./image/chat2.png)
 
 
 
