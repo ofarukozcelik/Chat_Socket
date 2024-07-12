@@ -9,9 +9,11 @@ Chat projesi geliştirildi.
 - Tailwind
 
 # Ekran Görüntüleri
-![](./client/public/chat1.png)
+![](./server/img/chat1.png)
 
-![](./client/public/chat2.png)
+![](./server/img/chat2.png)
+
+
 
 
 
