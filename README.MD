@@ -1,4 +1,4 @@
-# Socket Chat
+# Chat with Socket
 Chat projesi geliştirildi.
 
 # Kullanılan Teknolojiler
